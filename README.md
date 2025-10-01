@@ -36,3 +36,24 @@ The CM4SLE (Conceptual Model for Software-Led Enterprises) is a systematic refer
   Department of Software and Information Systems, Faculty of Engineering and Computer Science  
   Shahid Beheshti University, Tehran, Iran  
   ORCID: [0000-0002-3953-4857](https://orcid.org/0000-0002-3953-4857)
+
+## Model Domains
+
+The conceptual domains of CM4SLE highlight the core, futuristic, and gap-bridging constructs that together form the foundation of the model.  
+
+<p align="center">
+  <img src="Model/Domains%20of%20CM4SLE-1.0.svg" alt="Domains of CM4SLE-1.0" width="600"/>
+</p>
+
+## CM4SLE 1.0 Model
+
+The CM4SLE 1.0 conceptual model integrates blockchain-enabled governance, ecosystem collaboration, and agility mechanisms into a unified architecture grounded in UFO.  
+
+<p align="center">
+  <img src="Model/CM4SLE-1.0.svg" alt="CM4SLE-1.0 Model" width="700"/>
+</p>
+
+## Summary
+
+The CM4SLE repository provides visual and editable artifacts of the model.  
+All related files, including **.drawio**, **.svg**, and **.png** formats, are available in the `Model` folder for download in high quality and for further use in research or practice.
